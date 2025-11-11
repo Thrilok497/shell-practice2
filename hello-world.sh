@@ -5,4 +5,5 @@ PERSON2=$2
 echo "$PERSON1::hiii,$PERSON2"
 echo "$PERSON2::hiii,$PERSON1"
 echo "current directory::$PWD"
+echo "RAM Memory::$FREE"
 
