@@ -8,7 +8,7 @@
 
 NUMBER=$1
 
-if [$NUMBER is -lt 10];then
+if [$NUMBER -lt 10]; then
     echo "given $NUMBER is less than 10"
 else
     echo "given $NUMBER is not less than 10"
