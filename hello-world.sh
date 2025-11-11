@@ -2,5 +2,5 @@
 
 PERSON1="ram"
 PERSON2="ravi"
-$PERSON1::"hiii,$PERSON2"
-$PERSON2::"hiii,$PERSON1"
+echo "$PERSON1::hiii,$PERSON2"
+echo "$PERSON2::hiii,$PERSON1"
